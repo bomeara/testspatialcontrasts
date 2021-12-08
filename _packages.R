@@ -1,3 +1,4 @@
-library(SpatialContrasts)
+library(spatialcontrast)
+library(scales)
 library(geiger)
 library(ape)
